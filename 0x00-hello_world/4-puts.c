@@ -3,7 +3,7 @@
 /**
 *main - program entry
 *
-*Description:print to console 
+*Description:print to console
 *Return: 0
 */
 int main(void)
