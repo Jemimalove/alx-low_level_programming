@@ -1,10 +1,10 @@
-#include <stdio.h>
-**
-*
-* main - The size of various Entry point
-*
-* Return: Always 0 (Success)
-*/
+ #include <stdio.h>
+ /**
+ *
+ * main - The size of various Entry point
+ *
+ * Return: 0 (Success)
+ */
 int main(void)
  {
  	printf("size of a char: %i byte(s)\n". Sizeof(char));

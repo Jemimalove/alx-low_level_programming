@@ -1,0 +1,8 @@
+#!/bin/bash
+gcc -s -masm=intel $CFILE
+
+
+
+
+
+[A[A[A[A[Aclear
